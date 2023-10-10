@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'careerday-socialimpact-luiss'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E553686D5A154B45919CC77088DF30B4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D0BF64EFA804EB2BED59EF17717671A }}
           package: .
